@@ -1,0 +1,12 @@
+torch==1.8.1
+tensorboard
+tensorboardX
+pillow
+future
+numpy
+sacremoses
+subword_nmt
+sacrebleu
+sentencepiece
+pyarrow
+langdetect
